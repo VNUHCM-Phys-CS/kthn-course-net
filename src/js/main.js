@@ -10,7 +10,7 @@ const strokeKEY = "REQUIRE";
 const groupCat = [
   { key: "Đại cương", value: [] },
   { key: "Cơ sở ngành", value: [] },
-  { key: "Chuyên ngành", value: ["Chuyên ngành", "Tốt nghiệp"] },
+  { key: "Chuyên ngành", value: ["Chuyên ngành","Chuyên ngành KTHN","Chuyên ngành  NLĐ và HN","Chuyên ngành HD","Chuyên ngành KT","Chuyên ngành TV","Chuyên ngành HDKTTV", "Tốt nghiệp"] },
 ];
 
 const filterG = [];
