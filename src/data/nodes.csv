@@ -1,73 +1,185 @@
 ﻿id,NAME,YEAR,REQUIRE,CATEGORY,TERM
 1,Triết học Mác-Lênin,1,1,Đại cương,1
-2,Kinh tế chính trị Mác-Lênin,1,1,Đại cương,1
+2,Hóa đại cương 1,1,1,Đại cương,1
 3,Vi tích phân 1B,1,1,Đại cương,1
 4,Thực hành vi tích phân 1B,1,1,Đại cương,1
 5,Vật lý đại cương 1 (Cơ - Nhiệt),1,1,Đại cương,1
 6,Giới thiệu ngành Kỹ thuật hạt nhân,1,1,Đại cương,1
 7,Anh văn 1,1,2,Đại cương,1
 8,Thể dục 1,1,2,Đại cương,1
-9,Tin học cơ sở,1,2,Đại cương,1
-10,Giáo dục quốc phòng – An ninh,1,2,Đại cương,1
-11,Hóa đại cương 1,1,1,Đại cương,2
-12,Pháp luật đại cương,1,1,Đại cương,2
-13,Vi tích phân 2B,1,1,Đại cương,2
-14,Đại số tuyến tính,1,1,Đại cương,2
-15,Vật lý đại cương 2 (Điện từ - Quang),1,1,Đại cương,2
-16,Vật lý đại cương 3 (Cơ - Nhiệt nâng cao),1,1,Đại cương,2
-17,Thực hành Vật lý đại cương,1,1,Đại cương,2
-18,Anh văn 2,1,2,Đại cương,2
-19,Thể dục 2,1,2,Đại cương,2
-20,Chủ nghĩa xã hội khoa học,2,1,Đại cương,1
-21,Tư tưởng Hồ Chí Minh,2,1,Đại cương,1
-22,Lịch sử Đảng Cộng sản Việt Nam,2,1,Đại cương,1
-23,Xác suất thống kê,2,1,Đại cương,1
-24,Vật lý hiện đại (Lượng tử - Nguyên tử - Hạt nhân),2,1,Đại cương,1
+9,Kinh tế chính trị Mác-Lênin,1,1,Đại cương,2
+10,Vi tích phân 2B,1,1,Đại cương,2
+11,Đại số tuyến tính,1,1,Đại cương,2
+12,Thực hành Vật lý đại cương,1,1,Đại cương,2
+13,Vật lý đại cương 2 (Điện từ - Quang),1,1,Đại cương,2
+14,Vật lý đại cương 3 (Cơ - Nhiệt nâng cao),1,1,Đại cương,2
+15,Tin học cơ sở,1,2,Đại cương,2
+16,Anh văn 2,1,2,Đại cương,2
+17,Thể dục 2,1,2,Đại cương,2
+18,Chủ nghĩa xã hội khoa học,2,1,Đại cương,1
+19,Lịch sử Đảng Cộng sản Việt Nam,2,1,Đại cương,1
+20,Hàm phức,2,1,Cơ sở ngành,1
+21,Điện tử cơ bản,2,1,Cơ sở ngành,1
+22,Xác suất thống kê,2,1,Đại cương,1
+23,Vật lý hiện đại (Lượng tử - Nguyên tử - Hạt nhân),2,1,Đại cương,1
+24,Thực hành vật lý cơ sở,2,1,Cơ sở ngành,1
 25,Kinh tế đại cương ,2,0,Đại cương,1
 26,Tâm lý đại cương ,2,0,Đại cương,1
 27,Phương pháp luận sáng tạo ,2,0,Đại cương,1
-28,Khoa học trái đất ,2,0,Đại cương,1
-29,Môi trường đại cương ,2,0,Đại cương,1
-30,Hàm phức,2,1,Cơ sở ngành,1
-31,Thực hành vật lý cơ sở,2,1,Cơ sở ngành,1
-32,Anh văn 3,2,2,Cơ sở ngành,1
-33,Phương pháp tính,2,1,Cơ sở ngành,2
-34,Các phương pháp toán lý,2,1,Cơ sở ngành,2
-35,Điện tử cơ bản,2,1,Cơ sở ngành,2
+28,Đổi mới sáng tạo và khởi nghiệp,2,0,Đại cương,1
+29,Anh văn 3,2,2,Cơ sở ngành,1
+30,Giáo dục quốc phòng – An ninh,2,2,Đại cương,1
+31,Tư tưởng Hồ Chí Minh,2,1,Đại cương,2
+32,Pháp luật đại cương,2,1,Đại cương,2
+33,Vật lý hạt nhân,2,1,Cơ sở ngành,2
+34,Phương pháp tính,2,1,Cơ sở ngành,2
+35,Các phương pháp toán lý,2,1,Cơ sở ngành,2
 36,Cơ lượng tử 1,2,1,Cơ sở ngành,2
-37,Vật lý hạt nhân,2,1,Cơ sở ngành,2
-38,Điện động lực,2,1,Cơ sở ngành,2
-39,Anh văn 4,2,2,Cơ sở ngành,2
-40,Vật lý chất rắn,3,1,Cơ sở ngành,1
-41,Vật lý thống kê ,3,1,Cơ sở ngành,1
-42,Vật lý nguyên tử,3,1,Cơ sở ngành,1
-43,Cơ sở vật lý phóng xạ,3,1,Chuyên ngành,1
-44,Kỹ thuật ghi nhận bức xạ,3,1,Chuyên ngành,1
-45,Cấu trúc và phản ứng hạt nhân,3,1,Chuyên ngành,1
-46,Vật lý lò phản ứng,3,1,Chuyên ngành,1
-47,Sinh học bức xạ ,3,0,Chuyên ngành,1
-48,Cơ thể học và sinh lý học ,3,0,Chuyên ngành,1
-49,Phân tích thống kê số liệu thực nghiệm trong kỹ thuật hạt nhân,3,1,Chuyên ngành,2
-50,Thực tập cơ sở kỹ thuật hạt nhân,3,1,Chuyên ngành,2
-51,An toàn bức xạ,3,1,Chuyên ngành,2
-52,Ứng dụng tin học trong kỹ thuật hạt nhân,3,1,Chuyên ngành,2
-53,Nguyên lý và ứng dụng máy gia tốc ,3,0,Chuyên ngành,2
-54,Kỹ thuật phân tích hạt nhân,3,1,Chuyên ngành,2
-55,Thủy nhiệt học trong lò phản ứng ,3,0,Chuyên ngành,2
-56,Cơ sở vật lý trong y học hạt nhân ,3,0,Chuyên ngành,2
-57,Cơ sở vật lý trong xạ trị ,3,0,Chuyên ngành,2
-58,Công nghệ bức xạ,4,1,Chuyên ngành,1
-59,Thực tập chuyên đề kỹ thuật hạt nhân,4,1,Chuyên ngành,1
-60,Ứng dụng KTHN trong Nông-Y-Sinh,4,1,Chuyên ngành,1
-61,Thực tập thực tế kỹ thuật hạt nhân,4,1,Chuyên ngành,1
-62,Ứng dụng kỹ thuật hạt nhân trong công nghiệp,4,1,Chuyên ngành,1
-63,Ứng dụng kỹ thuật hạt nhân trong môi trường và thủy văn ,4,0,Chuyên ngành,1
-64,Công nghệ lò phản ứng và nhà máy điện hạt nhân ,4,0,Chuyên ngành,1
-65,Vật lý hạt cơ bản ,4,0,Chuyên ngành,1
-66,An toàn hạt nhân ,4,0,Chuyên ngành,1
-67,Mô phỏng vận hành nhà máy điện hạt nhân ,4,0,Chuyên ngành,1
-68,Thực tập chuyên đề Năng lượng hạt nhân ,4,0,Chuyên ngành,1
-69,Chu trình nhiên liệu và hóa phóng xạ ,4,0,Chuyên ngành,1
-70,Thiết bị chẩn đoán và xử lý ảnh y khoa ,4,0,Chuyên ngành,1
-71,Thiết bị và quy trình kỹ thuật trong chẩn đoán hình ảnh ,4,0,Chuyên ngành,1
-72,Khóa luận tốt nghiệp,4,1,Tốt nghiệp,2
+37,Cơ sở ngành Kỹ thuật hạt nhân,2,1,Đại cương,2
+38,Khoa học trái đất ,2,0,Đại cương,2
+39,Môi trường đại cương ,2,0,Đại cương,2
+40,Giới thiệu về biến đổi khí hậu và phát triển bền vững ,2,0,Đại cương,2
+41,Anh văn 4,2,2,Cơ sở ngành,2
+42,Điện động lực,3,1,Cơ sở ngành,1
+43,Vật lý chất rắn,3,1,Cơ sở ngành,1
+44,Vật lý thống kê ,3,1,Cơ sở ngành,1
+45,Cơ sở vật lý phóng xạ,3,1,Chuyên ngành,1
+46,Kỹ thuật ghi nhận bức xạ,3,1,Chuyên ngành,1
+47,Cấu trúc và phản ứng hạt nhân,3,1,Chuyên ngành,1
+48,Phân tích thống kê số liệu thực nghiệm trong kỹ thuật hạt nhân,3,1,Chuyên ngành,2
+49,Thực tập cơ sở kỹ thuật hạt nhân,3,1,Chuyên ngành,2
+50,An toàn bức xạ,3,1,Chuyên ngành,2
+51,Vật lý lò phản ứng,3,1,Chuyên ngành,2
+52,Những vấn đề mới trong vật lý hiện đại,3,0,Chuyên ngành,2
+53,Phương pháp nghiên cứu khoa học,3,0,Chuyên ngành,2
+54,Chính sách và pháp quy hạt nhân ,3,0,Chuyên ngành,2
+55,Hóa phóng xạ,3,0,Chuyên ngành,2
+56,An toàn lò phản ứng hạt nhân,3,0,Chuyên ngành,2
+57,Ứng dụng tin học trong kỹ thuật hạt nhân,3,0,Chuyên ngành,2
+58,Thực tập thực tế kỹ thuật hạt nhân,3,1,Chuyên ngành KTHN,2
+59,Cơ sở vật lý trong xạ trị ,3,0,Chuyên ngành KTHN,2
+60,Cơ sở vật lý trong y học hạt nhân ,3,0,Chuyên ngành KTHN,2
+61,Kỹ thuật phân tích y sinh,3,0,Chuyên ngành KTHN,2
+62,Vật liệu kỹ thuật hạt nhân,3,0,Chuyên ngành KTHN,2
+63,Kinh tế năng lượng hạt nhân,3,0,Chuyên ngành  NLĐ và HN,2
+64,Quản lý và tuyên truyền dự án điện hạt nhân,3,0,Chuyên ngành  NLĐ và HN,2
+65,Vật liệu kỹ thuật hạt nhân,3,1,Chuyên ngành  NLĐ và HN,2
+66,Thực tập thực tế kỹ thuật hạt nhân,3,0,Chuyên ngành  NLĐ và HN,2
+67,Ứng dụng kỹ thuật hạt nhân trong môi trường và thủy văn ,4,0,Chuyên ngành ,1
+68,Quản lý chất thải hạt nhân ,4,0,Chuyên ngành ,1
+69, Nguyên lý và ứng dụng máy gia tốc,4,0,Chuyên ngành,1
+70,Ứng dụng SPSS trong phân tích số liệu,4,0,Chuyên ngành,1
+71,Ứng dụng phương pháp số trong lĩnh vực hạt nhân,4,0,Chuyên ngành ,1
+72,Điện tử hạt nhân,4,0,Chuyên ngành ,1
+73,Sinh học bức xạ ,4,0,Chuyên ngành ,1
+74,Tư duy phản biện,4,0,Chuyên ngành ,1
+75,Công nghệ bức xạ,4,1,Chuyên ngành KTHN,1
+76,Kỹ thuật phân tích hạt nhân,4,1,Chuyên ngành KTHN,1
+77,Thực tập chuyên đề kỹ thuật hạt nhân,4,1,Chuyên ngành KTHN,1
+78,Ứng dụng KTHN trong Nông-Y-Sinh,4,1,Chuyên ngành KTHN,1
+79,Ứng dụng kỹ thuật hạt nhân trong công nghiệp,4,1,Chuyên ngành KTHN,1
+80,Các phương pháp NDT,4,1,Chuyên ngành KTHN,1
+81,Công nghệ lò phản ứng và nhà máy điện hạt nhân ,4,0,Chuyên ngành KTHN,1
+82,Vật lý hạt cơ bản ,4,0,Chuyên ngành KTHN,1
+83,Ứng dụng máy học trong kỹ thuật hạt nhân,4,0,Chuyên ngành KTHN,1
+84,Thiết bị và quy trình kỹ thuật trong chẩn đoán hình ảnh ,4,0,Chuyên ngành KTHN,1
+85,Công nghệ lò phản ứng và nhà máy điện hạt nhân ,4,1,Chuyên ngành  NLĐ và HN,1
+86,An toàn hạt nhân ,4,1,Chuyên ngành  NLĐ và HN,1
+87,Mô phỏng vận hành nhà máy điện hạt nhân ,4,1,Chuyên ngành  NLĐ và HN,1
+88,Thực tập chuyên đề Năng lượng hạt nhân ,4,1,Chuyên ngành  NLĐ và HN,1
+89,Thủy nhiệt học trong lò phản ứng ,4,1,Chuyên ngành  NLĐ và HN,1
+90,Chu trình nhiên liệu hạt nhân và quản lý nhiên liệu vùng hoạt,4,1,Chuyên ngành  NLĐ và HN,1
+91,Điều khiển và  đo lường trong lò phản ứng,4,0,Chuyên ngành  NLĐ và HN,1
+92,Ứng dụng kỹ thuật hạt nhân trong công nghiệp,4,0,Chuyên ngành  NLĐ và HN,1
+93,Ứng dụng KTHN trong Nông-Y-Sinh,4,0,Chuyên ngành  NLĐ và HN,1
+94,Các phương pháp NDT,4,0,Chuyên ngành  NLĐ và HN,1
+95,Khóa luận tốt nghiệp,4,1,Tốt nghiệp,2
+96,Ứng dụng thống kê và khoa học máy trong Khoa học Trái Đất,4,0,Chuyên ngành,1
+97,Ứng dụng AI trong Khoa học Trái Đất,4,0,Chuyên ngành,1
+98,Các công cụ mô hình hóa trong hải dương,4,0,Chuyên ngành HD,1
+99,Vận chuyển trầm tích,4,0,Chuyên ngành HD,1
+100,Hóa học biển,4,0,Chuyên ngành HD,1
+101,Sinh thái biển,4,0,Chuyên ngành HD,1
+102,Hải dương học Biển Đông,4,0,Chuyên ngành HD,1
+103,Quản lý biển - Kinh tế biển,4,0,Chuyên ngành HD,1
+104,Tài nguyên môi trường biển và biến đổi khí hậu,4,0,Chuyên ngành HD,1
+105,Các phương pháp khai thác dữ liệu 2,4,0,Chuyên ngành HD,1
+106,Các chuyên đề tai biến thiên nhiên và đánh giá tác động môi trường,4,0,Chuyên ngành HD,1
+107,Thách thức toàn cầu trong hải dương học,4,0,Chuyên ngành HD,1
+108,Tài nguyên môi trường biển và biến đổi khí hậu,4,0,Chuyên ngành HD,1
+109,Các phương pháp khai thác dữ liệu 2,4,0,Chuyên ngành HD,1
+110,Các công cụ mô hình hóa trong khí tượng,4,0,Chuyên ngành KT,1
+111,Dự báo số trị,4,0,Chuyên ngành KT,1
+112,Khí hậu nông nghiệp,4,0,Chuyên ngành KT,1
+113,Khí tượng hàng không,4,0,Chuyên ngành KT,1
+114,Dự báo thời tiết bằng phương pháp số,4,0,Chuyên ngành KT,1
+115,Khí hậu đại dương và tương tác biển khí,4,0,Chuyên ngành KT,1
+116,Vi khí hậu,4,0,Chuyên ngành KT,1
+117,Đối lưu khí quyển,4,0,Chuyên ngành KT,1
+118,Các chuyên đề tai biến thiên nhiên và đánh giá tác động môi trường,4,0,Chuyên ngành KT,1
+119,Ứng dụng công nghệ tiên tiến trong khí tượng nông nghiệp,4,0,Chuyên ngành KT,1
+120,Tài nguyên môi trường biển và biến đổi khí hậu,4,0,Chuyên ngành TV,1
+121,Các phương pháp khai thác dữ liệu 2,4,0,Chuyên ngành TV,1
+122,Các công cụ mô hình hóa trong thủy văn,4,0,Chuyên ngành TV,1
+123,Tính toán thủy văn,4,0,Chuyên ngành TV,1
+124,Dự báo thủy văn,4,0,Chuyên ngành TV,1
+125,"Mô hình thủy văn, thủy lực",4,0,Chuyên ngành TV,1
+126,Đo đạc thủy văn,4,0,Chuyên ngành TV,1
+127,Thủy văn môi trường,4,0,Chuyên ngành TV,1
+128,Chỉnh trị sông,4,0,Chuyên ngành TV,1
+129,Quản lý tài nguyên nước,4,0,Chuyên ngành TV,1
+130,Các chuyên đề tai biến thiên nhiên và đánh giá tác động môi trường,4,0,Chuyên ngành TV,1
+131,Thủy văn nước ngầm,4,0,Chuyên ngành TV,1
+132,Quản lý biển - Kinh tế biển,4,0,Chuyên ngành HDKTTV,1
+133,Tài nguyên môi trường biển và biến đổi khí hậu,4,0,Chuyên ngành HDKTTV,1
+134,Các phương pháp khai thác dữ liệu 2,4,0,Chuyên ngành HDKTTV,1
+135,Khí hậu nông nghiệp,4,0,Chuyên ngành HDKTTV,1
+136,Khí tượng hàng không,4,0,Chuyên ngành HDKTTV,1
+137,Các công cụ mô hình hóa,4,0,Chuyên ngành HDKTTV,1
+138,Dự báo khí tượng,4,0,Chuyên ngành HDKTTV,1
+139,Các chuyên đề tai biến thiên nhiên và đánh giá tác động môi trường,4,0,Chuyên ngành HDKTTV,1
+140,Khai thác dữ liệu nâng cao và ứng dụng,4,0,Chuyên ngành HDKTTV,1
+141,Các mô hình thủy động lực ứng dụng trong Khoa học Trái đất ,4,0,Chuyên ngành HDKTTV,1
+142,Các chuyên đề tương tác đại dương - khí quyển,4,0,Chuyên ngành HD,2
+143,Khí tượng synop,4,0,Chuyên ngành HD,2
+144,Khí hậu học và khí hậu Việt Nam,4,0,Chuyên ngành HD,2
+145,Xử lý số liệu khí tượng và dự báo thời tiết bằng phương pháp thống kê vật lý,4,0,Chuyên ngành HD,2
+146,Động lực học sông ngòi,4,0,Chuyên ngành HD,2
+147,"Địa lý, địa chất thủy văn",4,0,Chuyên ngành HD,2
+148,Sinh thái thủy văn vùng cửa sông,4,0,Chuyên ngành HD,2
+149,Quản lý tổng hợp đới bờ,4,0,Chuyên ngành HD,2
+150,Các quá trình ven bờ vùng Đồng bằng sông Cửu Long,4,0,Chuyên ngành HD,2
+151,Các quá trình sinh địa hóa trong đại dương,4,0,Chuyên ngành HD,2
+152,Cửa sông đại cương,4,0,Chuyên ngành KT,2
+153,Hải lưu,4,0,Chuyên ngành KT,2
+154,Thủy triều,4,0,Chuyên ngành KT,2
+155,Các chuyên đề tương tác đại dương – khí quyển,4,0,Chuyên ngành KT,2
+156,Xử lý số liệu khí tượng và dự báo thời tiết bằng phương pháp thống kê vật lý,4,0,Chuyên ngành KT,2
+157,Động lực học sông ngòi,4,0,Chuyên ngành KT,2
+158,"Địa lý, địa chất thủy văn",4,0,Chuyên ngành KT,2
+159,Sinh thái thủy văn vùng cửa sông,4,0,Chuyên ngành KT,2
+160,Quản lý tổng hợp đới bờ,4,0,Chuyên ngành KT,2
+161,Cửa sông đại cương,4,0,Chuyên ngành TV,2
+162,Hải lưu,4,0,Chuyên ngành TV,2
+163,Thủy triều,4,0,Chuyên ngành TV,2
+164,Các chuyên đề tương tác đại dương – khí quyển,4,0,Chuyên ngành TV,2
+165,Khí tượng synop,4,0,Chuyên ngành TV,2
+166,Khí hậu học và khí hậu Việt Nam,4,0,Chuyên ngành TV,2
+167,Xử lý số liệu khí tượng và dự báo thời tiết bằng phương pháp thống kê vật lý,4,0,Chuyên ngành TV,2
+168,Quản lý tổng hợp đới bờ,4,0,Chuyên ngành TV,2
+169,Các quá trình ven bờ vùng Đồng bằng sông Cửu Long,4,0,Chuyên ngành TV,2
+170,Các quá trình sinh địa hóa trong đại dương,4,0,Chuyên ngành TV,2
+171,Cửa sông đại cương,4,0,Chuyên ngành HDKTTV,2
+172,Các chuyên đề hải dương,4,0,Chuyên ngành HDKTTV,2
+173,Các chuyên đề tương tác đại dương – khí quyển,4,0,Chuyên ngành HDKTTV,2
+174,Khí hậu học và khí hậu Việt Nam,4,0,Chuyên ngành HDKTTV,2
+175,Các chuyên đề khí tượng,4,0,Chuyên ngành HDKTTV,2
+176,Xử lý số liệu khí tượng và dự báo thời tiết bằng phương pháp thống kê vật lý,4,0,Chuyên ngành HDKTTV,2
+177,Các chuyên đề thủy văn,4,0,Chuyên ngành HDKTTV,2
+178,"Địa lý, địa chất thủy văn",4,0,Chuyên ngành HDKTTV,2
+179,Sinh thái thủy văn vùng cửa sông,4,0,Chuyên ngành HDKTTV,2
+180,Quản lý tổng hợp đới bờ,4,0,Chuyên ngành HDKTTV,2
+181,Các quá trình ven bờ vùng Đồng bằng sông Cửu Long,4,0,Chuyên ngành HDKTTV,2
+182,Thách thức toàn cầu trong quản lý tổng hợp đới bờ ,4,0,Chuyên ngành HDKTTV,2
+183,Khóa luận tốt nghiệp,4,1,Tốt nghiệp,2
+184,Đồ án tốt nghiệp,4,1,Tốt nghiệp,2
